@@ -1,5 +1,5 @@
 # ETH Zürich course materials
-This is a repository with links to everything I produced during my studies at ETH Zürich, listed by course.
+This is a repository with links to everything I produced during my studies at ETH Zürich, listed by course. Information about each course can be found in the [ETH course catalog](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/sucheLehrangebotPre.do?lang=en).
 
 ### 2015 Autumn
 * [Algorithms Lab](https://github.com/taivop/eth-algolab) (2015 Autumn)
